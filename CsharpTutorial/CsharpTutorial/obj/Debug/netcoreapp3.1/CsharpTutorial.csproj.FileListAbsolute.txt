@@ -1,0 +1,13 @@
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.deps.json
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.runtimeconfig.json
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.runtimeconfig.dev.json
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.dll
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/bin/Debug/netcoreapp3.1/CsharpTutorial.pdb
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.csproj.AssemblyReference.cache
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.AssemblyInfoInputs.cache
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.AssemblyInfo.cs
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.csproj.CoreCompileInputs.cache
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.dll
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.pdb
+/Volumes/Mac Book Air - SSD/Visual Studio/CsharpTutorial/CsharpTutorial/obj/Debug/netcoreapp3.1/CsharpTutorial.genruntimeconfig.cache
