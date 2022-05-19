@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{58983218-C999-4E22-AE6C-C74A578D5187}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{58983218-C999-4E22-AE6C-C74A578D5187}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Coin_Pickup" ID="{36BDEE5F-3B71-41F3-8E90-FF42A5AC6FBD}">
+					<ChildrenList>
+						<Action Name="" ID="{2B7994AB-F6A0-418A-9320-652C7C1E938A}" ShortID="58331610">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="91491-Lid_set_down_plastic_cup_drink_fountain_soda_pop_fast_food-BLASTWAVEFX-22747" ID="{FA6F877B-996B-4AC3-917A-CD04D056FC78}" WorkUnitID="{2A11F8BB-F692-4A26-93ED-2B903CA590AC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Jump" ID="{79EB95EB-6E01-4F4B-AFAF-319A31D85BE9}">
+					<ChildrenList>
+						<Action Name="" ID="{B2F61599-0342-4BD9-B4FB-60384B32D461}" ShortID="376013100">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Jump" ID="{67C91725-A7B5-47E6-B8F1-01E52A6582E3}" WorkUnitID="{2A11F8BB-F692-4A26-93ED-2B903CA590AC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Land_to_Ground" ID="{E5269ED7-AD20-440A-BEDE-E7351335B39A}">
+					<ChildrenList>
+						<Action Name="" ID="{6C7B9536-171E-47BC-B16D-E15D1631B9B2}" ShortID="416472889">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Land_to_Ground" ID="{C3952CAA-840E-49DB-89F1-23A86FE289B7}" WorkUnitID="{2A11F8BB-F692-4A26-93ED-2B903CA590AC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
