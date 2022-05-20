@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2A11F8BB-F692-4A26-93ED-2B903CA590AC}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{2A11F8BB-F692-4A26-93ED-2B903CA590AC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="91491-Lid_set_down_plastic_cup_drink_fountain_soda_pop_fast_food-BLASTWAVEFX-22747" ID="{FA6F877B-996B-4AC3-917A-CD04D056FC78}" ShortID="513448678">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BBBFD7F-A6E9-4E0B-8AFB-61E280A7927C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C3332C44-2660-4DE4-9611-DD23C3E5024D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="91491-Lid_set_down_plastic_cup_drink_fountain_soda_pop_fast_food-BLASTWAVEFX-22747" ID="{2283411B-A20A-4455-A418-B8BCCD61F6DB}">
+							<Language>SFX</Language>
+							<AudioFile>91491-Lid_set_down_plastic_cup_drink_fountain_soda_pop_fast_food-BLASTWAVEFX-22747.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="240855880"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="91491-Lid_set_down_plastic_cup_drink_fountain_soda_pop_fast_food-BLASTWAVEFX-22747" ID="{2283411B-A20A-4455-A418-B8BCCD61F6DB}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<RandomSequenceContainer Name="Jump" ID="{67C91725-A7B5-47E6-B8F1-01E52A6582E3}" ShortID="640769493">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BBBFD7F-A6E9-4E0B-8AFB-61E280A7927C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C3332C44-2660-4DE4-9611-DD23C3E5024D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="513394-Henchman-Vocal-Jump-Long-3-Male-Grunt-Jumping-Vocalization-Emote" ID="{30C3F6E6-5967-4758-BD7F-90D4891DDBA2}" ShortID="807764375">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BBBFD7F-A6E9-4E0B-8AFB-61E280A7927C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C3332C44-2660-4DE4-9611-DD23C3E5024D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="513394-Henchman-Vocal-Jump-Long-3-Male-Grunt-Jumping-Vocalization-Emote" ID="{EE636907-49D8-43FE-B81F-AE46F148D8BE}">
+									<Language>SFX</Language>
+									<AudioFile>513394-Henchman-Vocal-Jump-Long-3-Male-Grunt-Jumping-Vocalization-Emote.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="668013925"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="513394-Henchman-Vocal-Jump-Long-3-Male-Grunt-Jumping-Vocalization-Emote" ID="{EE636907-49D8-43FE-B81F-AE46F148D8BE}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="513395-Henchman-Vocal-Jump-Long-5-Male-Grunt-Jumping-Vocalization-Emote" ID="{8D050545-AA91-48C6-BCF3-0EA4FF81DEF5}" ShortID="2389280">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BBBFD7F-A6E9-4E0B-8AFB-61E280A7927C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C3332C44-2660-4DE4-9611-DD23C3E5024D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="513395-Henchman-Vocal-Jump-Long-5-Male-Grunt-Jumping-Vocalization-Emote" ID="{595C46D9-AF19-48AA-96D4-CF8C18F5C266}">
+									<Language>SFX</Language>
+									<AudioFile>513395-Henchman-Vocal-Jump-Long-5-Male-Grunt-Jumping-Vocalization-Emote.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="694641068"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="513395-Henchman-Vocal-Jump-Long-5-Male-Grunt-Jumping-Vocalization-Emote" ID="{595C46D9-AF19-48AA-96D4-CF8C18F5C266}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="513398-Henchman-Vocal-Jump-Short-2-Male-Grunt-Jumping-Vocalization-Emote" ID="{DF35B56D-8BA1-463D-9B20-86D8D3329DCD}" ShortID="879354748">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BBBFD7F-A6E9-4E0B-8AFB-61E280A7927C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C3332C44-2660-4DE4-9611-DD23C3E5024D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="513398-Henchman-Vocal-Jump-Short-2-Male-Grunt-Jumping-Vocalization-Emote" ID="{8991845A-8707-4162-9161-56F14A52D6AD}">
+									<Language>SFX</Language>
+									<AudioFile>513398-Henchman-Vocal-Jump-Short-2-Male-Grunt-Jumping-Vocalization-Emote.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="38365633"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="513398-Henchman-Vocal-Jump-Short-2-Male-Grunt-Jumping-Vocalization-Emote" ID="{8991845A-8707-4162-9161-56F14A52D6AD}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists/>
+				</RandomSequenceContainer>
+				<RandomSequenceContainer Name="Land_to_Ground" ID="{C3952CAA-840E-49DB-89F1-23A86FE289B7}" ShortID="455105460">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BBBFD7F-A6E9-4E0B-8AFB-61E280A7927C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C3332C44-2660-4DE4-9611-DD23C3E5024D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="479593-Pieces_Falling_On_The_Chess_Board_07" ID="{8454CE68-2380-4837-8F6A-329B45EEB618}" ShortID="756902943">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BBBFD7F-A6E9-4E0B-8AFB-61E280A7927C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C3332C44-2660-4DE4-9611-DD23C3E5024D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="479593-Pieces_Falling_On_The_Chess_Board_07" ID="{7E39BC30-DC51-4BAB-AC44-A331D1504186}">
+									<PropertyList>
+										<Property Name="FadeInDuration" Type="Real64" Value="0.00498620248538012"/>
+										<Property Name="LoopBegin" Type="Real64" Value="0.289199744152047"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimBegin" Type="Real64" Value="0.239337719298246"/>
+										<Property Name="TrimEnd" Type="Real64" Value="0.85762682748538"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>479593-Pieces_Falling_On_The_Chess_Board_07.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="410459117"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="479593-Pieces_Falling_On_The_Chess_Board_07" ID="{7E39BC30-DC51-4BAB-AC44-A331D1504186}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="479589-Pieces_Falling_On_The_Chess_Board_03" ID="{9CF91BE3-3964-435A-8779-8A74AA9AF91D}" ShortID="1025242814">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BBBFD7F-A6E9-4E0B-8AFB-61E280A7927C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C3332C44-2660-4DE4-9611-DD23C3E5024D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="479589-Pieces_Falling_On_The_Chess_Board_03" ID="{1C1BE008-586E-4604-B98B-1ED4F8DD90EB}">
+									<PropertyList>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimBegin" Type="Real64" Value="0.0736579251949318"/>
+										<Property Name="TrimEnd" Type="Real64" Value="0.625397478070176"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>479589-Pieces_Falling_On_The_Chess_Board_03.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="148697496"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="479589-Pieces_Falling_On_The_Chess_Board_03" ID="{1C1BE008-586E-4604-B98B-1ED4F8DD90EB}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="479586-Piece_Falling_on_Board" ID="{0B9F58EB-DF31-43BB-B7C4-C515BF06A612}" ShortID="331403245">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BBBFD7F-A6E9-4E0B-8AFB-61E280A7927C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C3332C44-2660-4DE4-9611-DD23C3E5024D}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="479586-Piece_Falling_on_Board" ID="{4150EEAE-DEFF-4C45-8EF2-8FA2E055CCB4}">
+									<Language>SFX</Language>
+									<AudioFile>479586-Piece_Falling_on_Board.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1056254086"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="479586-Piece_Falling_on_Board" ID="{4150EEAE-DEFF-4C45-8EF2-8FA2E055CCB4}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists/>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
