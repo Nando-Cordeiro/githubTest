@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{783BDD42-7003-0B3B-1AD7-374F5FEEE974}</ProjectGuid>
+    <ProjectGuid>{6E746F28-37E3-CEFD-7DAB-83E050F026EB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AK.Wwise.Unity.MonoBehaviour</AssemblyName>
@@ -656,11 +656,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AK.Wwise.Unity.API.Player.csproj">
-      <Project>{D9FB2D1A-9C05-67CA-C5B7-A482F9796863}</Project>
+      <Project>{A10C6D64-EEA2-7B57-AC7D-0FEC7ED9A479}</Project>
       <Name>AK.Wwise.Unity.API.Player</Name>
     </ProjectReference>
     <ProjectReference Include="AK.Wwise.Unity.API.WwiseTypes.Player.csproj">
-      <Project>{3D3D949C-DA94-D553-D011-F2DFA4934E22}</Project>
+      <Project>{B98D9F35-BF69-ACD1-852A-1C8EF1FF3BBC}</Project>
       <Name>AK.Wwise.Unity.API.WwiseTypes.Player</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D9FB2D1A-9C05-67CA-C5B7-A482F9796863}</ProjectGuid>
+    <ProjectGuid>{A10C6D64-EEA2-7B57-AC7D-0FEC7ED9A479}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AK.Wwise.Unity.API</AssemblyName>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9070DF17-650B-6B3C-6E63-2CB23665D6C9}</ProjectGuid>
+    <ProjectGuid>{E3F65437-8A6E-C92C-8436-04AF12CE38C8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Ak.Wwise.Api.WAAPI</AssemblyName>
@@ -663,11 +663,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AK.Wwise.Unity.API.WwiseTypes.csproj">
-      <Project>{C247FA14-4A98-BA62-3EDD-5963FC9EABCC}</Project>
+      <Project>{DAEEF530-4626-8850-8922-DEA526C25DBC}</Project>
       <Name>AK.Wwise.Unity.API.WwiseTypes</Name>
     </ProjectReference>
     <ProjectReference Include="AK.Wwise.Unity.API.csproj">
-      <Project>{D27C5704-AF6E-A346-66D1-BE9C1B5B821A}</Project>
+      <Project>{C197777C-7962-FF9E-5B74-0DAD9D1E36C8}</Project>
       <Name>AK.Wwise.Unity.API</Name>
     </ProjectReference>
   </ItemGroup>
