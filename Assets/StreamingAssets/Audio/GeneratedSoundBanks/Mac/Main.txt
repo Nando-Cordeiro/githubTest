@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	98870701	Coin_Pickup			\Default Work Unit\Coin_Pickup	
+	629362792	Land_to_Ground			\Default Work Unit\Land_to_Ground	
+	3833651337	Jump			\Default Work Unit\Jump	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	38365633	513398-Henchman-Vocal-Jump-Short-2-Male-Grunt-Jumping-Vocalization-Emote	Z:\Volumes\Mac Book Air - SSD\GitHub\UnityBasics_WwiseProject\.cache\Mac\SFX\513398-Henchman-Vocal-Jump-Short-2-Male-Grunt-Jumping-Vocalization-Emote_A794F097.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\513398-Henchman-Vocal-Jump-Short-2-Male-Grunt-Jumping-Vocalization-Emote		71952
+	148697496	479589-Pieces_Falling_On_The_Chess_Board_03	Z:\Volumes\Mac Book Air - SSD\GitHub\UnityBasics_WwiseProject\.cache\Mac\SFX\479589-Pieces_Falling_On_The_Chess_Board_03_FC1648D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Land_to_Ground\479589-Pieces_Falling_On_The_Chess_Board_03		105996
+	240855880	91491-Lid_set_down_plastic_cup_drink_fountain_soda_pop_fast_food-BLASTWAVEFX-22747	Z:\Volumes\Mac Book Air - SSD\GitHub\UnityBasics_WwiseProject\.cache\Mac\SFX\91491-Lid_set_down_plastic_cup_drink_fountain_soda_pop_fast_food-BLASTWAVEFX-22747_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\91491-Lid_set_down_plastic_cup_drink_fountain_soda_pop_fast_food-BLASTWAVEFX-22747		53368
+	410459117	479593-Pieces_Falling_On_The_Chess_Board_07	Z:\Volumes\Mac Book Air - SSD\GitHub\UnityBasics_WwiseProject\.cache\Mac\SFX\479593-Pieces_Falling_On_The_Chess_Board_07_6061A9A8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Land_to_Ground\479593-Pieces_Falling_On_The_Chess_Board_07		118776
+	668013925	513394-Henchman-Vocal-Jump-Long-3-Male-Grunt-Jumping-Vocalization-Emote	Z:\Volumes\Mac Book Air - SSD\GitHub\UnityBasics_WwiseProject\.cache\Mac\SFX\513394-Henchman-Vocal-Jump-Long-3-Male-Grunt-Jumping-Vocalization-Emote_50313C2B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\513394-Henchman-Vocal-Jump-Long-3-Male-Grunt-Jumping-Vocalization-Emote		101316
+	694641068	513395-Henchman-Vocal-Jump-Long-5-Male-Grunt-Jumping-Vocalization-Emote	Z:\Volumes\Mac Book Air - SSD\GitHub\UnityBasics_WwiseProject\.cache\Mac\SFX\513395-Henchman-Vocal-Jump-Long-5-Male-Grunt-Jumping-Vocalization-Emote_9027F0DB.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\513395-Henchman-Vocal-Jump-Long-5-Male-Grunt-Jumping-Vocalization-Emote		98852
+	1056254086	479586-Piece_Falling_on_Board	Z:\Volumes\Mac Book Air - SSD\GitHub\UnityBasics_WwiseProject\.cache\Mac\SFX\479586-Piece_Falling_on_Board_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Land_to_Ground\479586-Piece_Falling_on_Board		139200
+
